@@ -1,0 +1,26 @@
+.news_wrapper {
+  width: 90%;
+  height: 130px;
+  margin: 30px auto;
+  padding: 3vh;
+  border: 2px solid #ffffff;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-between;
+  background-color: #1f1f1f;
+}
+
+.news_company {
+  font-size: 0.4rem;
+}
+.news_title {
+  font-size: 0.8rem;
+  margin-right: 2vw;
+}
+
+.news_thumnail {
+  max-width: 100px;
+  max-height: 100px;
+  object-fit: contain;
+}
+
